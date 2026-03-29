@@ -1,3 +1,57 @@
 # piissalipe-dot.github.io
 title: piissalipe-dot's homepage
 description: Bookmark this to keep an eye on my project updates!
+<!doctype html>
+<html lang="pt-br">
+	<head>
+		<title> A IMPORTANCIA DAS CORES </title>
+		<meta charset="utf-8">
+		<link rel="icon" type="image/jpg "href="img/tablecol.jpg">
+	</head>
+	<body>
+	<center>
+	<h1> <b> A IMPORTÂNCIA DAS CORES </b> </h1> </center>
+	<hr> <br>
+	<font color="006400">
+	<p><justify> Verde escuro: </font>
+	  A cor verde simboliza o crescimento, a harmonia, o frescor, e a fertilidade. O verde tem forte 
+	correspondência emocional com segurança. Verde escuro também é comumente associado com o dinheiro. 
+	O Verde tem grande poder de cura. </p>
+	<p><font color="A020F0"> Roxo: </font>
+	A cor roxa (ou púrpura) está ligada ao mundo místico e significa esíritualidade, magia e mistério. 
+	O roxo transmite a sensação de tristeza e introspecção. Estimula o contacto com o lado espiritual, proporcionando
+	a purificação do corpo e da mente, e a libertação de medos e outras inquietações. </p>
+	<p><fon color="FF0000"> Vermelho: </font>
+	A cor vermelha simboliza a ação, energia e coragem. Evoca paixão e força, para
+	para nossa vida e nossas metas e objetivos, tanto no âmbito pessoal como de trabalho. É altamente revigorante, energético e 
+	excitante. Está vinculada a nossa necessidade primitiva de sobrevivência e preservação, seja no âmbito emocional ou físico.</p>
+	<p><font color="FFFF00"> Amarelo: </font>
+	A cor amarela representa descontração, otimismo, facilidade em se expressar e energias positivas. Além disso, ela atrai prosperidade
+	, ou seja, dinheiro. </p>
+	<p><font color="FF69B4"> Rosa escuro:</font>
+	A cor rosa escuro está associada à sensualidade e à sedução feminina. O rosa é a cor das emoções, dos afetos, da compreensão,
+	do companheirismo e do romance. Representa os sentimentos ligados ao coração como o amor verdadeiro.</p>
+	<p><font color="8B4513"> Marrom: </font>
+	 A cor marrom é a cor da terra e da madeira e por isso está também associada à natureza. Assim, também é possível associar
+	 a cor marrom a produtos naturais e com o estilo de vida saudável. Antigamente era associado aos agricultores e a outras atividades</p>
+	ao ar livre. <br>
+	<p><font color="0000FF"> Azul: </font>
+	 A cor azul simboliza criatividade, juventude e alegria. E também produz segurança, compreensão. propicia saúde emocional e simboliza lealdade
+	 , confiança e tranquilidade. </p>
+	 <p>Preto: A cor preta é mais poderosa e neutra. Tende a ser associada à elegância e força. Assim como o violeta, essa cor transmite a sensação de mistério, além de ser relacionada ao medo,
+	 curiosidade e, algumas vezes, memória emocional. Além disso, é uma cor que combina com tudo.</p>
+	 <p><font color="00FFFF"> Ciano: </font>
+	 A cor ciano significa tranquilidade, paz, sossego, limpeza e frescor. </p>
+	 <p><font color="00FF00"> Verde limão: </font>
+	 A cor verde limão transmite uma vibração mais solar da alegria, transparência e bom humor. A cor verde ajuda a manter a proporção exata do ambiente, porém tende a 
+	 tornar o espaço estático, letárgico, vazio e neutro. Não promove vitalidade, mas é primoroso para provocar um ambiente mais calmo, pacífico.</p>
+	<p> <font color="FF8C00"> Laranja: </font>
+	 A cor laranja retrata âonimo, atrai consumidores e estimula a criatividade. A experiência visual da cor laranja reflete calor, exitação, entusiasmo, mudança, 
+	 expansão e dinamismo. </p>
+	 <p><font color="808080"> Cinza: </font>
+	 A cor cinza significa neutralidade, elegância, sofisticação e ausência de emoção. Por ser uma cor neutra, o cinza não 
+	 tem nas suas características a capacidade de estimular ou tranquilizar. Como não tem uma carga emotiva, é frequentemente
+	 caracterizada como uma cor enfadonha e sem movimento.</p> </justify>
+	 <br> <br> <br> <br> <br> <br> <br> <br>  <br> <br> <hr>
+	 <center><h5> Fellipe dos Santos Piassa 2026 &copy Todos os direitos reservados <br>
+	 Trabalho acadêmico sem fins lucrativos
